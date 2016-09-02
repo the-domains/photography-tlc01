@@ -1,0 +1,14 @@
+layout_spectrum: 0.1943245269358158
+typography_spectrum: 0.622649731580168
+color:
+  brandStrength: 0.16049060341902077
+  lightness: 0.5659201163798571
+  saturation: 0.5451323396991938
+  rhythmicContrast: 0.6735997530631721
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Photography
